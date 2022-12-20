@@ -8,7 +8,7 @@ labels: question
 
 Please do not file questions or support requests on the GitHub issues tracker.
 
-You can get your questions answered using other communication channels such as Slack (edgexfoundry.slack.com)
+You can get your questions answered on Github Discussions (https://github.com/orgs/edgexfoundry/discussions).
 
 Thank you!
 
